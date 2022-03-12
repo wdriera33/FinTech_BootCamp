@@ -54,9 +54,9 @@
 * This idea is not much of an investment in technology or service.
 
 
-* Written By: William Riera
+## Written By: William Riera
 
-## Refrences
+## References
 
 * www.creditkarma.com
 * engineering.creditkarma.com
