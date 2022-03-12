@@ -52,5 +52,3 @@ Overview and Origin
 * I think positive reinforcement will make the company grow. Members never expect anything in return. Its a game changer.
 
 * This idea is not much of an investment in technology or service.
-
-*
