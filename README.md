@@ -12,45 +12,45 @@ Overview and Origin
 
 * Company founder Kenneth Lin
 
-* How did the idea for the company (or project) come about?
+* Data-driven marketing consultancy Kennth worked for consumer credit and mission-based companies. September 2007, Ryan builds a simple homepage to collect email addresses of prospective members, ahead of Credit Karma’s beta launch.
 
-* How is the company funded? How much funding have they received?
+* Credit Karma makes money by receiving a fee every time a user purchases a product or service it recommends. Credit Karma is a fintech startup focusing on providing credit information. Credit Karma has received in funding $868 million. 
+
+
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Credit Karma is a fast growing company while tackling high visibility, cross-functional projects can be challenging to navigate as an engineer.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Members looking for a free credit score & financial advice. Members can see free personalized offers and recommendations on their profiles to help them make their next financial move  Credit Karma is a consumer technology company with more than 100 million members in the United States, U.K. and Canada, including almost half of all U.S. millennials.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* One of the technology used is the products and services using Google Cloud Platform (GCP) has been a big ingredient. 
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Credit Karma is in the financial industry
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* In the past 5 years Fintech personal loan originations increased more than 940% among the top 100 lenders.
 
-* What are the other major companies in this domain?
+* Credit Karma is also involved in credit card refinance, home improvment & debt consolidation.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Credit Karma has help members to take control of thier credit score.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* It uses one of the most sophisticated analytics & softwares.
 
-* How is your company performing relative to competitors in the same domain?
-
+* Credit Karma's competitors include NerdWallet, Credit Sesame, and Mint, which also offer free credit score information and financial tools. Credit Karma amassed annual revenues of over $1 billion for the year 2019. This represents a 100 percent increase from 2017 when the company generated around $500 million in unaudited revenue.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Credit Karma should be the first company to offer positive reinforcement when members credits gets better. Maybe $25 Amazon gift card.
 
-* Why do you think that offering this product or service would benefit the company?
+* I think positive reinforcement will make the company grow. Members never expect anything in return. Its a game changer.
 
-* What technologies would this additional product or service utilize?
+* This idea is not much of an investment in technology or service.
 
-* Why are these technologies appropriate for your solution?
+*
