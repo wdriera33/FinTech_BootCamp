@@ -4,7 +4,7 @@
 
  Lending
  
-Overview and Origin
+## Overview and Origin
 
 * Credit Karma
 
@@ -23,9 +23,9 @@ Overview and Origin
 
 * Credit Karma is a fast growing company while tackling high visibility, cross-functional projects can be challenging to navigate as an engineer.
 
-* Members looking for a free credit score & financial advice. Members can see free personalized offers and recommendations on their profiles to help them make their next financial move  Credit Karma is a consumer technology company with more than 100 million members in the United States, U.K. and Canada, including almost half of all U.S. millennials.
+* Members looking for a free credit score & financial advice. Members can see free personalized offers and recommendations on their profiles to help them make their next financial move. Credit Karma is a consumer technology company with more than 100 million members in the United States, U.K. and Canada, including almost half of all U.S. millennials.
 
-* One of the technology used is the products and services using Google Cloud Platform (GCP) has been a big ingredient. 
+* One of the key technology used, is the products and services using Google Cloud Platform (GCP). 
 
 
 ## Landscape:
@@ -47,8 +47,18 @@ Overview and Origin
 
 ## Recommendations
 
-* Credit Karma should be the first company to offer positive reinforcement when members credits gets better. Maybe $25 Amazon gift card.
+* Credit Karma should be the first company to offer positive reinforcement when members credit gets better by offering $25 Amazon gift card.
 
 * I think positive reinforcement will make the company grow. Members never expect anything in return. Its a game changer.
 
 * This idea is not much of an investment in technology or service.
+
+
+* Written By: William Riera
+
+## Refrences
+
+* www.creditkarma.com
+* engineering.creditkarma.com
+* www.investopedia.com
+* crunchbase.com
